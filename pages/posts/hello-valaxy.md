@@ -1,7 +1,7 @@
 ---
 title: Hello, Valaxy!
-date: 2022-04-01
-updated: 2022-04-01
+date: 
+
 categories: Valaxy 笔记
 tags:
   - valaxy
@@ -18,3 +18,7 @@ Write your first post!
 ## Usage
 
 Modify `valaxy.config.ts` to custom your blog.
+
+## 云游君
+
+我只能说，好家伙。
