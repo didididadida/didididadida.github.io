@@ -25,7 +25,7 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     pages: [
       {
-        name: '我的小伙伴们',
+        name: '我的世界',
         url: '/links/',
         icon: 'i-ri-genderless-line',
         color: 'dodgerblue',
