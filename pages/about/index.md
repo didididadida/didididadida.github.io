@@ -2,14 +2,11 @@
 title: 关于我
 ---
 
-I am developing [Valaxy](https://github.com/YunYouJun/valaxy) - Next Generation Static Blog Framework.
+我是一个小小白，其实之前是写了好多长篇大论的，但由于构建的网站自己也没搞懂，就都找不到了(ノへ￣、)，只能暂时长话短了。
 
-If you like it, you can sponsor me in [GitHub](https://github.com/sponsors/YunYouJun) or [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn).
 
----
 
-我正在开发 [Valaxy](https://github.com/YunYouJun/valaxy) - 下一代静态博客框架。
 
-如果你喜欢它，你可以在 [GitHub](https://github.com/sponsors/YunYouJun) 或 [sponsors.yunyoujun.cn](https://sponsors.yunyoujun.cn) 赞助我。
 
-Check out the [Valaxy | GitHub](https://github.com/YunYouJun/valaxy) for more details.
+
+
