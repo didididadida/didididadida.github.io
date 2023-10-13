@@ -1,6 +1,7 @@
 ---
 title: Hello, Valaxy!
-date: 
+date: 2023-10-9
+updated: 2023-10-9
 
 categories: Valaxy 笔记
 tags:
