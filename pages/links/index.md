@@ -6,5 +6,8 @@ links:
 
 random: true
 ---
+begin
 
 <YunLinks :links="frontmatter.links" :random="frontmatter.random" />
+
+end
