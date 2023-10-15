@@ -2,6 +2,7 @@
 title: python
 date: 2023-10-14
 updated: 2023-10-14
+categories: 作业
 tag:
  - python
 ---
