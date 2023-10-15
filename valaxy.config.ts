@@ -50,9 +50,6 @@ export default defineValaxyConfig<UserThemeConfig>({
     addonComponents(),
     addonWaline({
       serverURL: "https://comment-depu6owp0-didididadidas-projects.vercel.app/",		// Waline服务链接
-      locale: {
-        placeholder: "填写qq邮箱或点击登录，可以展示个人头像",
-      },
       comment: true,
       pageview: true
     }),
