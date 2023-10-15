@@ -1,7 +1,7 @@
 ---
 title: 小车日志
 date: 2023-10-15
-
+categories: 类日记
 tag:
   - 小车
   
