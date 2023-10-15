@@ -12,7 +12,7 @@ python是不怎么喜欢的，但是据说很实用…………
 [python学校作业](https://prg.cqupt.edu.cn/main.jsp)
 
 ```python
-#作业1
+# 求平均值和比平均值大的数值，并以元组输出
 
 def cacluate():
     a = 0
@@ -43,11 +43,8 @@ t =input()
 print(s.replace(' ',t))
 ```
 ```python
-#作业三
+#计算任意个输入数字的乘积。
 
-'''
-计算任意个输入数字的乘积。
-'''
 ls = []
 ls = input().split(',')
 
@@ -57,7 +54,7 @@ for i in range(0,len(ls)):
 print(a)
 ```
 ```python
-#作业四
+#求小于等于已知数的十个素数的和
 
 def isprime(n):  #判断素数函数
     for i in range(2,n):
@@ -77,5 +74,5 @@ def f(n):        #找小于n的素数并求和
 
 p=int(input())
 print(f(p))
-# ##寻找素数要从2开始，因为0，1，n,三者都各自不满足客观条件
+# 寻找素数要从2开始，因为0，1，n,三者都各自不满足客观条件
 ```
