@@ -1,12 +1,12 @@
 ---
-title: 小车日志
+title: 小车ing
 date: 2023-10-15
 categories: 类日记
 tag:
   - 小车
   
 ---
-[小车日志草稿](https://www.jianguoyun.com/p/DWPHhyQQ6ICHDBiBkJ4FIAA (访问密码：7890))
+
 ### 细碎话
 不知道能不能做出来，但是一定是要做的吧……
 
@@ -22,3 +22,5 @@ PCB搭载控制、驱动，利用传感器和芯片进行路径规划，差不�
 [【智能车】硬件开源＋硬件小白入门-哔哩哔哩](https://b23.tv/7TTrdR2)
 
 好像有眉目了……
+
+第二天：然而并没有-_-||
