@@ -6,6 +6,7 @@ tag:
   - 小车
   
 ---
+[小车日志草稿](https://www.jianguoyun.com/p/DWPHhyQQ6ICHDBiBkJ4FIAA (访问密码：7890))
 ### 细碎话
 不知道能不能做出来，但是一定是要做的吧……
 
