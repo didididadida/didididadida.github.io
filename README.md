@@ -1,3 +1,6 @@
+一些新的东西，在脑海中演绎，很多和以前遇到的不一样的事物……
+
+
 # create-valaxy
 
 Example: [valaxy.site](https://valaxy.site)
