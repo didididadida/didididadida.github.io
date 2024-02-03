@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://valaxy.site/</id>
+    <title>滴滴滴嗒嘀嗒</title>
+    <updated>2024-02-03T06:12:15.137Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>户村</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://valaxy.site/"/>
+    <link rel="self" href="https://valaxy.site/feed.atom"/>
+    <subtitle>主不在乎</subtitle>
+    <logo>https://valaxy.site/valaxy-logo.png</logo>
+    <icon>https://valaxy.site/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 户村</rights>
+    <entry>
+        <title type="html"><![CDATA[如是说]]></title>
+        <id>https://valaxy.site/posts/如是说</id>
+        <link href="https://valaxy.site/posts/如是说"/>
+        <updated>2023-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>总有一些事物，迫使着我们不断做出改变，而且，我们别无选择，只有迎面而上。</p>
+<p><a href="https://www.yuque.com/didididadida/zw5t6a">学习笔记</a></p>
+<p>2023-1</p>
+]]></content>
+        <author>
+            <name>户村</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-10-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于网站的建设]]></title>
+        <id>https://valaxy.site/posts/关于网站建设</id>
+        <link href="https://valaxy.site/posts/关于网站建设"/>
+        <updated>2023-10-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>参考的网站：</strong><br>
+<a href="https://www.yunyoujun.cn/posts/how-to-build-your-site">从零开始创建一个网站</a>、<br>
+[云主题](<a href="https://yun">https://yun</a>.</p>
+]]></content>
+        <author>
+            <name>户村</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-10-09T00:00:00.000Z</published>
+    </entry>
+</feed>
