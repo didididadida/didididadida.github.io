@@ -1,54 +1,10 @@
 一些新的东西，在脑海中演绎，很多和以前遇到的不一样的事物……
 
+# 这个网站
+网站用于记录自己的一些细碎点滴，以及随着时间的流逝，希望能保留住一些美好的事物。
 
-# create-valaxy
+这个网站是我学习代码第一次所触及的实例，通过~~抄云游君的~~操作，由第一次的无知到现在的略懂一二，
+感受到了代码和文本的关系的神奇，希望自己能多去尝试感受。
 
-Example: [valaxy.site](https://valaxy.site)
+create-valaxy: [valaxy.site](https://valaxy.site)
 
-## Usage
-
-```bash
-# install
-npm i
-# or pnpm i
-
-# start
-npm run dev
-# or pnpm dev
-```
-
-See `http://localhost:4859/`, have fun!
-
-### Config
-
-Modify `valaxy.config.ts` to custom your blog.
-
-English & Chinese Docs is coming!
-
-> Wait a minute.
-
-### Docker
-
-```bash
-docker build . -t your-valaxy-blog-name:latest
-```
-
-## Structure
-
-In most cases, you only need to work in the `pages` folder.
-
-### Main folders
-
-- `pages`: your all pages
-  - `posts`: write your posts here, will be counted as posts
-- `styles`: override theme styles, `index.scss`/`vars.csss`/`index.css` will be loaded automatically
-- `components`: custom your vue components (will be loaded automatically)
-- `layouts`: custom layouts (use it by `layout: xxx` in md)
-- `locales`: custom i18n
-
-### Other
-
-- `.vscode`: recommend some useful plugins & settings, you can preview icon/i18n/class...
-- `.github`: GitHub Actions to auto build & deploy to GitHub Pages
-- `netlify.toml`: for [netlify](https://www.netlify.com/)
-- `vercel.json`: for [vercel](https://vercel.com/)
