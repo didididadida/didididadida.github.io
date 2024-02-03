@@ -1,9 +1,11 @@
 ---
-title: 我的小伙伴们
+title: 爱谓何为
 keywords: 链接
-description: 云游的小伙伴们
-links: https://www.yunyoujun.cn/friends/links.json
-random: true
+description: 爱一个人，时间也许很短，但也许很长
+links: 
+random: False
 ---
+# 爱一个人，时间也许很短，但也许很长
+我想体验一次长久的喜欢，也愿意为之而改变。
 
-<YunLinks :links="frontmatter.links" :random="frontmatter.random" />
+
