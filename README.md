@@ -8,3 +8,8 @@
 
 create-valaxy: [valaxy.site](https://valaxy.site)
 
+## 该项目如何在本地网页显示？
+   ```bash
+   npm i # 安装依赖
+   npm run dev # 启动开发服务器
+   ```
