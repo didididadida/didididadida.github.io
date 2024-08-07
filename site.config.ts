@@ -181,7 +181,14 @@ export default defineSiteConfig({
    */
   mediumZoom: { enable: true },
 
-
+  /**
+   * 开启搜索功能
+   */
+  search: {
+    enable: true,
+    // 设置类型为 Fuse
+    type: 'fuse',
+  },
 })
 
 
