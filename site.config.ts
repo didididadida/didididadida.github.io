@@ -1,20 +1,29 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
+
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
   title: '滴滴滴嗒嘀嗒',
   author: {
     name: '户村',
+    avatar: './guga.png',
   },
-  description: '主不在乎',
+  /**
+   * 站点图标
+   */
+  favicon: './favicon.svg',
+  /**
+   * 副标题
+   */
+  description: '相信自己',
   social: [
-    // {
-    //   name: 'RSS',
-    //   link: '/atom.xml',
-    //   icon: 'i-ri-rss-line',
-    //   color: 'orange',
-    // },
+    {
+      name: 'RSS',
+      link: '/atom.xml',
+      icon: 'i-ri-rss-line',
+      color: 'orange',
+    },
     // {
     //   name: 'QQ 群 1050458482',
     //   link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
@@ -90,31 +99,39 @@ export default defineSiteConfig({
   ],
 
   search: {
-    enable: false,
+    enable: true,//false,
   },
 
-  sponsor: {
-    enable: true,
-    title: '我很可爱，请给我钱！',
-    methods: [
-      // {
-      //   name: '支付宝',
-      //   url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
-      //   color: '#00A3EE',
-      //   icon: 'i-ri-alipay-line',
-      // },
-      // {
-      //   name: 'QQ 支付',
-      //   url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
-      //   color: '#12B7F5',
-      //   icon: 'i-ri-qq-line',
-      // },
-      // {
-      //   name: '微信支付',
-      //   url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
-      //   color: '#2DC100',
-      //   icon: 'i-ri-wechat-pay-line',
-      // },
-    ],
-  },
+
+sponsor: {
+  enable: true,
+  methods: [
+    {
+      name: '支付宝',
+      url: './ali.jpg',
+      color: '#00A3EE',
+      icon: 'i-ri-alipay-line',
+    },
+    // {
+    //   name: '微信',
+    //   url: './weixin.png',
+    //   color: '#1AAD19',
+    //   icon: 'i-ri-wechat-line',
+    // },
+  ],
+},
+
+
+    /**
+   * 默认 Frontmatter
+   */
+    frontmatter: {
+      time_warning: false,
+    },
+  
+
 })
+
+
+
+
