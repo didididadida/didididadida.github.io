@@ -108,13 +108,13 @@ export default defineSiteConfig({
     methods: [
       {
         name: '支付宝',
-        url: 'https://wallhaven.cc/wallpapers/tmp/temp_66b3a3c4edf89.png',
+        url: 'https://s1.1128888.xyz/2024/08/08/66b3f6cecf90a.png',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: '微信支付',
-        url: 'https://wallhaven.cc/wallpapers/tmp/temp_66b3a3a66042e.png',
+        url: 'https://s1.1128888.xyz/2024/08/08/66b3f6c6ce4cb.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },

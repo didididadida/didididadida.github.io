@@ -2,7 +2,7 @@
 title: 爱谓何为
 
 description: 爱一个人，时间也许很短，但也许很长
-link: https://www.zhihu.com/question/26677801
+link: https://didididadida.github.io/love/
 random: False
 hide: True
 conment: False
