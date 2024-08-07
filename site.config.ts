@@ -7,7 +7,7 @@ export default defineSiteConfig({
   title: '关于这个站点',
   author: {
     name: '户村',
-    avatar: 'https://wallhaven.cc/wallpapers/tmp/temp_66b3a635cda43.png',
+    avatar: 'https://s1.1128888.xyz/2024/08/08/66b3fd56df197.jpg',
   },
   /**
    * 站点图标
