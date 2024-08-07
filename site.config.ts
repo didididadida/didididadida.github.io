@@ -7,12 +7,12 @@ export default defineSiteConfig({
   title: '滴滴滴嗒嘀嗒',
   author: {
     name: '户村',
-    avatar: './guga.png',
+    avatar: 'https://didididadida.github.io/img/zhuti/guga.png',
   },
   /**
    * 站点图标
    */
-  favicon: './favicon.svg',
+  favicon: 'https://didididadida.github.io/img/zhuti/favicon.svg',
   /**
    * 副标题
    */
@@ -102,25 +102,23 @@ export default defineSiteConfig({
     enable: true,//false,
   },
 
-
-sponsor: {
-  enable: true,
-  methods: [
-    {
-      name: '支付宝',
-      url: './ali.jpg',
-      color: '#00A3EE',
-      icon: 'i-ri-alipay-line',
-    },
-    // {
-    //   name: '微信',
-    //   url: './weixin.png',
-    //   color: '#1AAD19',
-    //   icon: 'i-ri-wechat-line',
-    // },
-  ],
-},
-
+  sponsor: {
+    enable: true,
+    methods: [
+      {
+        name: '支付宝',
+        url: 'https://didididadida.github.io/img/zhifu/ali.jpg',
+        color: '#00A3EE',
+        icon: 'i-ri-alipay-line',
+      },
+      {
+        name: '微信支付',
+        url: 'https://didididadida.github.io/img/zhifu/weixin.png',
+        color: '#2DC100',
+        icon: 'i-ri-wechat-pay-line',
+      },
+    ],
+  },
 
     /**
    * 默认 Frontmatter
