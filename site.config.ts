@@ -4,10 +4,10 @@ export default defineSiteConfig({
 
   url: 'https://valaxy.site/',
   lang: 'zh-CN',
-  title: '滴滴滴嗒嘀嗒',
+  title: '关于这个站点',
   author: {
     name: '户村',
-    avatar: 'https://didididadida.github.io/img/zhuti/guga.png',
+    avatar: 'https://wallhaven.cc/wallpapers/tmp/temp_66b3a635cda43.png',
   },
   /**
    * 站点图标
@@ -16,7 +16,7 @@ export default defineSiteConfig({
   /**
    * 副标题
    */
-  description: '相信自己',
+  description: 'please believe yourself',
   social: [
     {
       name: 'RSS',
@@ -84,12 +84,12 @@ export default defineSiteConfig({
     //   icon: 'i-ri-telegram-line',
     //   color: '#0088CC',
     // },
-    // {
-    //   name: 'E-Mail',
-    //   link: 'mailto:me@yunyoujun.cn',
-    //   icon: 'i-ri-mail-line',
-    //   color: '#8E71C1',
-    // },
+    {
+      name: 'E-Mail',
+      link: 'mailto:didididadida@outlook.com',
+      icon: 'i-ri-mail-line',
+      color: '#8E71C1',
+    },
     {
       name: 'Travelling',
       link: 'https://www.travellings.cn/go.html',
@@ -104,16 +104,17 @@ export default defineSiteConfig({
 
   sponsor: {
     enable: true,
+    description:"没钱吃饭了…… ",
     methods: [
       {
         name: '支付宝',
-        url: 'https://didididadida.github.io/img/zhifu/ali.jpg',
+        url: 'https://wallhaven.cc/wallpapers/tmp/temp_66b3a3c4edf89.png',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: '微信支付',
-        url: 'https://didididadida.github.io/img/zhifu/weixin.png',
+        url: 'https://wallhaven.cc/wallpapers/tmp/temp_66b3a3a66042e.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
@@ -123,8 +124,11 @@ export default defineSiteConfig({
     /**
    * 默认 Frontmatter
    */
-    frontmatter: {
-      time_warning: false,
+    Frontmatter: {
+      time_warning: {
+        enable: true,
+        threshold: 86400,
+      },
     },
   
 

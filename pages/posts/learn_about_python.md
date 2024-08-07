@@ -3,7 +3,7 @@ title: 关于python的学习
 date: 2023-10-14
 updated: 2023-10-14
 categories: 学习笔记
-tag:
+tags:
  - python 
 ---
 
