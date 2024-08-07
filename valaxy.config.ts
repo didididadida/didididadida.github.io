@@ -1,5 +1,11 @@
 import { defineValaxyConfig } from 'valaxy'
-import type { UserThemeConfig } from 'valaxy-theme-yun'
+import type { ThemeConfig } from 'valaxy-theme-yun'
+// import { addonComponents } from 'valaxy-addon-components'
+// import { VitePWA } from 'vite-plugin-pwa'
+import { presetIcons } from 'unocss'
+import { addonWaline } from 'valaxy-addon-waline'
+
+
 
 // add icons what you will need
 const safelist = [
@@ -9,8 +15,24 @@ const safelist = [
 /**
  * User Config
  */
-export default defineValaxyConfig<UserThemeConfig>({
-  // site config see site.config.ts
+export default defineValaxyConfig<ThemeConfig>({
+  // site config see site.config.ts or write in siteConfig
+  siteConfig: {
+    // 启用评论
+    comment: {
+      enable: true
+    },
+  },
+  // 设置 valaxy-addon-waline 配置项
+  addons: [
+    addonWaline({
+      // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
+      serverURL: 'https://didididadida.vercel.app/',
+    }),
+  ],
+
+
+
 
   theme: 'yun',
 
@@ -25,10 +47,10 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     pages: [
       {
-        name: '我的小伙伴们',
+        name: '爱谓何为',
         url: '/links/',
-        icon: 'i-ri-genderless-line',
-        color: 'dodgerblue',
+        icon: 'i-ri-heart-line',//'i-ri-genderless-line',
+        color: 'red',
       },
       // {
       //   name: '喜欢的女孩子',
@@ -47,5 +69,43 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
   },
  
-  unocss: { safelist },
+ 
+  // vite: {
+  //   // https://vite-pwa-org.netlify.app/
+  //   plugins: [VitePWA()],
+  // },
+
+  unocss: {
+    presets: [
+      presetIcons({
+        extraProperties: {
+          'display': 'inline-block',
+          'height': '1.2em',
+          'width': '1.2em',
+          'vertical-align': 'text-bottom',
+        },
+      }),
+    ],
+  },
+
+
+
+  // addons: [
+  //   addonComponents()
+  // ],
+
+
+
+  // vue: {
+  //   template: {
+  //     compilerOptions: {
+  //       isCustomElement: tag => tag.startsWith('my-')
+  //     }
+  //   }
+  // }
+
+  
 })
+
+
+

@@ -2,7 +2,7 @@ import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
 
-  url: 'https://valaxy.site/',
+  url: 'https://didididadida.github.io/',
   lang: 'zh-CN',
   title: '关于这个站点',
   author: {
@@ -125,12 +125,62 @@ export default defineSiteConfig({
    * 默认 Frontmatter
    */
     Frontmatter: {
-      time_warning: {
-        enable: true,
-        threshold: 86400,
+      time_warning: false,
+
+    },
+
+
+  /**
+   * 开启阅读统计
+   */
+  statistics: {
+    enable: true,
+    readTime: {
+      /**
+       * 阅读速度
+       */
+      speed: {
+        cn: 300,
+        en: 200,
       },
     },
-  
+  },
+
+  /**
+   * 文章中所有代码块高度都不会超过 300px，并自动折叠
+   */
+  codeHeightLimit: 300,
+
+    /**
+   * 文章中开启加密
+   */
+  encrypt: {
+    enable: true,
+  },
+
+   /**
+   * 客户端开启重定向
+   */
+  redirects: {
+    useVueRouter: true,
+    rules: [
+      {
+        from: ['/foo', '/bar'],
+        to: '/about',
+      },
+      {
+        from: '/v1/about',
+        to: '/about',
+      },
+    ]
+  },
+
+
+   /**
+   * 开启图片预览功能
+   */
+  mediumZoom: { enable: true },
+
 
 })
 
