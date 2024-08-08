@@ -4,7 +4,7 @@ export default defineSiteConfig({
 
   url: 'https://didididadida.github.io/',
   lang: 'zh-CN',
-  title: '关于这个站点',
+  title: '户户的小窝',
   author: {
     name: '户村',
     avatar: 'https://s1.1128888.xyz/2024/08/08/66b3fd56df197.jpg',
@@ -12,10 +12,11 @@ export default defineSiteConfig({
   /**
    * 站点图标
    */
-  favicon: 'https://didididadida.github.io/img/zhuti/favicon.svg',
+  favicon: 'https://www.yunyoujun.cn/favicon.svg',
   /**
    * 副标题
    */
+  subtitle: 'All at sea.',
   description: 'please believe yourself',
   social: [
     {

@@ -1,5 +1,5 @@
 ---
-title: 关于站点
+title: 复刻云游君的Valaxy
 
 categories: 户户的小项目
 tags:
@@ -8,7 +8,7 @@ tags:
 ---
 
 
-**参考的网站：**
+**参考的资料：**
 - [从零开始创建一个网站](https://www.yunyoujun.cn/posts/how-to-build-your-site)
 - [云主题](https://yun.yunyoujun.cn/guide/)
 - [valaxy](https://valaxy.site/) 
