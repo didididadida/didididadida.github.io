@@ -47,7 +47,7 @@ export default defineValaxyConfig<ThemeConfig>({
 
     pages: [
       {
-        name: '爱谓何为',
+        name: '一些琐碎',
         url: '/links/',
         icon: 'i-ri-heart-line',//'i-ri-genderless-line',
         color: 'red',

@@ -5,7 +5,8 @@ updated: 2023-10-13
 categories: 类日记
 tags:
  - 碎碎念
-keywords: xinxi
+passwords: xinxi
+hide: true
 ---
 ### 2023年11月29日
 总有一些事物，迫使着我们不断做出改变，而且，我们别无选择，只有迎面而上。

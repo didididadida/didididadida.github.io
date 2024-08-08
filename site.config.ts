@@ -104,7 +104,7 @@ export default defineSiteConfig({
 
   sponsor: {
     enable: true,
-    description:"没钱吃饭了…… ",
+    description:"不说了，确实已经沦落到要饭的地步了……",
     methods: [
       {
         name: '支付宝',
@@ -149,7 +149,7 @@ export default defineSiteConfig({
   /**
    * 文章中所有代码块高度都不会超过 300px，并自动折叠
    */
-  codeHeightLimit: 300,
+  codeHeightLimit: 350,
 
     /**
    * 文章中开启加密
