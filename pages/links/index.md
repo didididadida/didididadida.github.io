@@ -8,6 +8,7 @@ tags:
 password: xinxi
 hide: true
 time_warning: false
+link: https://didididadida.github.io/link/
 ---
 
 爱一个人，时间也许很短，但也许很长。
