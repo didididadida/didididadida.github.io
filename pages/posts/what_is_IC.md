@@ -8,8 +8,8 @@ tags:
 
 # top: 2
 hide: true
-password: xinxi
-link: https://didididadida.github.io/post/what_is_IC
+# password: xinxi
+link: https://didididadida.github.io/posts/what_is_IC
 ---
 #### IC基础了解
 

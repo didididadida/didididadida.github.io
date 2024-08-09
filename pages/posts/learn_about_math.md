@@ -5,7 +5,7 @@ updated: 2024-8-9
 categories: 学习笔记
 tags:
   - 数学
-link: https://didididadida.github.io/post/learn_about_math/
+link: https://didididadida.github.io/posts/learn_about_math/
 # top: 2
 hide: true
 ---
