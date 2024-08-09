@@ -251,8 +251,10 @@ tags:
    print(str(ret))  #bytearray(b'Alex') 
    ```
    
-   ord() 输入字符找带字符编码的位置 
+   ord() 输入字符找带字符编码的位置
+
    chr() 输入位置数字找出对应的字符 
+
    ascii() 是ascii码中的返回该值 不是就返回u 
    ```python
    print(ord('a'))  # 字母a在编码表中的码位:97  
@@ -273,17 +275,23 @@ tags:
   ### 数据集合 
    
    字典：dict 创建一个字典 
+
    集合：set 创建一个集合 
+
   frozenset() 创建一个冻结的集合，冻结的集合不能进行添加和删除操作。 
   
   相关内置函数 ：
    
    len() 返回一个对象中的元素的个数 
+
    sorted() 对可迭代对象进行排序操作 (lamda) 
+
    sorted(Iterable, key=函数(排序规则), reverse=False) 
    
    Iterable: 可迭代对象 
+
    key: 排序规则(排序函数), 在sorted内部会将可迭代对象中的每一个元素传递给这个函数的参数. 根据函数运算的结果进行排序 
+
    reverse: 是否是倒叙. True: 倒叙, False: 正序 
    
    ```python 
@@ -313,7 +321,9 @@ tags:
    ```
    
    all() 可迭代对象中全部是True, 结果才是True 
+
    any() 可迭代对象中有一个是True, 结果就是True 
+
    ```python 
    ll([1,'hello',True,9]))  #True  
    print(any([0,0,0,False,1,'good']))  #True 
@@ -376,7 +386,9 @@ tags:
   ## 和迭代器/生成器相关 
    
    range() 生成数据 
+
    next() 迭代器向下执行一次, 内部实际使⽤用了__ next__()⽅方法返回迭代器的下一个项目 
+
    iter() 获取迭代器, 内部实际使用的是__ iter__()⽅方法来获取迭代器 
    
    ```python
@@ -393,7 +405,9 @@ tags:
   字符串类型代码的执行 
    
    eval() 执行字符串类型的代码. 并返回最终结果 
+
    exec() 执行字符串类型的代码 
+
    compile() 将字符串类型的代码编码. 代码对象能够通过exec语句来执行或者eval()进行求值 
    
    ```python 
@@ -416,13 +430,16 @@ tags:
   输入输出 
    
    print() : 打印输出 
+
    input() : 获取用户输出的内容 
    
    ```python 
    print("hello", "world", sep="*", end="@") # sep:打印出的内容用什么连接,end:以什么为结尾  #hello*world@ 
    ```
   ## 内存相关 
-  hash() : 获取到对象的哈希值(int, str, bool, tuple). hash算法:(1) 目的是唯一性 (2) dict 查找效率非常高, hash表.用空间换的时间 比较耗费内存 
+  hash() : 获取到对象的哈希值(int, str, bool, tuple). 
+  
+  hash算法:(1) 目的是唯一性 (2) dict 查找效率非常高, hash表.用空间换的时间 比较耗费内存 
    ```python 
    s = 'alex'  print(hash(s))  #-168324845050430382  
    lst = [1, 2, 3, 4, 5]  print(hash(lst))  #报错,列表是不可哈希的  
