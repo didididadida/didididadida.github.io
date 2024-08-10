@@ -1,7 +1,7 @@
 ---
 title: 🌏
-date: 2023-10-12
-updated: 2023-10-12
+date: 2023-11-12
+updated: 2023-11-12
 categories: 🌏
 tags:
  - 🌏
