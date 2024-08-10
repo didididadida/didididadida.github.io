@@ -1,13 +1,15 @@
 ---
 title: 如是说 & 碎碎念
-date: 2023-10-13
-updated: 2023-10-13
+date: 2023-10-12
+updated: 2023-10-12
 categories: 类日记
 tags:
  - 碎碎念
-passwords: xinxi
-hide: true
+# password: xinxi
+# hide: true
 ---
+
+
 ### 2023年11月29日
 总有一些事物，迫使着我们不断做出改变，而且，我们别无选择，只有迎面而上。
 
@@ -21,3 +23,12 @@ hide: true
 
 ### 2024年8月4日
 依旧很苦恼的，摆烂着……
+
+### 2024年8月10日
+**目前的一些不成熟的笔记：**
+<!-- valaxy-encrypt-start:xinxi -->
+1. [数学的学习](https://didididadida.github.io/posts/learn_about_math/)
+2. [什么是集成电路(IC)](https://didididadida.github.io/posts/what_is_IC)
+3. [什么是计算机程序](https://didididadida.github.io/posts/what_is_Program)
+<!-- valaxy-encrypt-end -->
+打算添加入自己觉得有意义的新闻栏目。

@@ -6,9 +6,10 @@ categories: 学习笔记
 tags:
  - python 
 
-# hide: true
+hide: true
 ---
-
+#### 参考的资料
+[python](https://www.runoob.com/python/python-tutorial.html)
 # 基础知识
 以下是python的一些基础语法： 
   ## 注释 
