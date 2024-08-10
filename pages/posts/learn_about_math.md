@@ -12,7 +12,7 @@ hide: true
 ---
 **目前我需要的可能不是知识，而是确定哪些是需要的知识，并如何进行灵活的运用这些知识。**
 #### 一些资料
-- 小小的摘抄来自《[如何解题](./doc/how_solve_math.pdf)》：
+- 小小的摘抄来自《[如何解题](https://didididadida.github.io/posts/how_solve_math.pdf)》：
  <div align=center><img src="./picture/how_to_solve.jpg" describe= "如何解题" width=150 height=250></div>
 
 #### 一些思考
