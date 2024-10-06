@@ -27,7 +27,7 @@ export default defineValaxyConfig<ThemeConfig>({
   addons: [
     addonWaline({
       // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
-      serverURL: 'https://didididadida.vercel.app/',
+      serverURL: 'https://comment-sand.vercel.app/',
     }),
   ],
 
