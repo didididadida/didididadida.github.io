@@ -19,7 +19,10 @@ create-valaxy: [valaxy.site](https://valaxy.site)
 git init
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/your_username/your_repo_name.git
-git push -u origin master
+# 1. 切换回HTTPS协议
+git remote set-url origin https://github.com/didididadida/didididadida.github.io.git
 
+# 2. 强制推送（解决分支分叉问题）
+git push -u origin main --force
 ```
+以后如果有针对推送新的认识和学习，我会修改的。
