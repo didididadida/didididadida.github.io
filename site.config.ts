@@ -4,9 +4,9 @@ export default defineSiteConfig({
 
   url: 'https://didididadida.github.io/',
   lang: 'zh-CN',
-  title: '户户的小窝',
+  title: '飼酒の小站',
   author: {
-    name: '户村',
+    name: '飼酒の',
     avatar: 'https://s1.1128888.xyz/2024/08/08/66b3fd56df197.jpg',
   },
   /**

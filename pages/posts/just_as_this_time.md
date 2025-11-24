@@ -26,9 +26,9 @@ tags:
 
 ### 2024年8月10日
 **目前的一些不成熟的笔记：**
-<!-- valaxy-encrypt-start:xinxi -->
+
 1. [数学的学习](https://didididadida.github.io/posts/learn_about_math/)
 2. [什么是集成电路(IC)](https://didididadida.github.io/posts/what_is_IC)
 3. [什么是计算机程序](https://didididadida.github.io/posts/what_is_Program)
-<!-- valaxy-encrypt-end -->
-打算添加入自己觉得有意义的新闻栏目。
+
+打算添加入自己觉得有意义的描述。

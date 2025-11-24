@@ -6,7 +6,7 @@ categories: 学习笔记
 tags:
  - python 
 
-hide: true
+# hide: true
 ---
 #### 参考的资料
 [python](https://www.runoob.com/python/python-tutorial.html)
