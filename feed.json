@@ -1,0 +1,62 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "飼酒の小站",
+    "home_page_url": "https://didididadida.github.io/",
+    "feed_url": "https://didididadida.github.io/feed.json",
+    "description": "please believe yourself",
+    "icon": "https://s1.1128888.xyz/2024/08/08/66b3fd56df197.jpg",
+    "author": {
+        "name": "飼酒の",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<blockquote>\n<p><s>以下是一些自己的对于世界的一些白日幻想，现在看来是十分幼稚的描述，不过就放到这里了。</s></p>\n</blockquote>\n<h1>1.0心智世界</h1>\n<p>所谓人类的思考：就是人类神经的某个微尘在某一瞬间受到了触动，转而引发了其他神经的触</p>\n<br/><p>访问 <a href=\"https://didididadida.github.io/posts/know_about_World\" target=\"_blank\">https://didididadida.github.io/posts/know_about_World</a> 阅读全文。</p>",
+            "url": "https://didididadida.github.io/posts/know_about_World",
+            "title": "🌏",
+            "date_modified": "2023-11-12T00:00:00.000Z",
+            "date_published": "2023-11-12T00:00:00.000Z",
+            "author": {
+                "name": "飼酒の",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h4>参考的资料</h4>\n<p><a href=\"https://www.runoob.com/python/python-tutorial.html\">python</a></p>\n<h1>基础知识</h1>\n<p>以下是python的一些基础语法：</p>\n<br/><p>访问 <a href=\"https://didididadida.github.io/posts/learn_about_python\" target=\"_blank\">https://didididadida.github.io/posts/learn_about_python</a> 阅读全文。</p>",
+            "url": "https://didididadida.github.io/posts/learn_about_python",
+            "title": "关于python的学习",
+            "date_modified": "2023-10-14T00:00:00.000Z",
+            "date_published": "2023-10-14T00:00:00.000Z",
+            "author": {
+                "name": "飼酒の",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p><strong>参考的资料：</strong></p>\n<ul>\n<li><a href=\"https://www.yunyoujun.cn/posts/how-to-build-your-site\">从零开始创建一个网站</a></li>\n<li>[云主题](<a href=\"https://y\">https://y</a></li>\n</ul>\n<br/><p>访问 <a href=\"https://didididadida.github.io/posts/about_build_site\" target=\"_blank\">https://didididadida.github.io/posts/about_build_site</a> 阅读全文。</p>",
+            "url": "https://didididadida.github.io/posts/about_build_site",
+            "title": "复刻云游君的Valaxy",
+            "date_modified": "2023-10-13T00:00:00.000Z",
+            "date_published": "2023-10-13T00:00:00.000Z",
+            "author": {
+                "name": "飼酒の",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<h3>2023年11月29日</h3>\n<p>总有一些事物，迫使着我们不断做出改变，而且，我们别无选择，只有迎面而上。</p>\n<p>曾经在很长一段时间在这个上面做自己的学习工作：[语雀笔记](<a href=\"https://www.yu\">https://www.yu</a></p>\n<br/><p>访问 <a href=\"https://didididadida.github.io/posts/just_as_this_time\" target=\"_blank\">https://didididadida.github.io/posts/just_as_this_time</a> 阅读全文。</p>",
+            "url": "https://didididadida.github.io/posts/just_as_this_time",
+            "title": "如是说 & 碎碎念",
+            "date_modified": "2023-10-12T00:00:00.000Z",
+            "date_published": "2023-10-12T00:00:00.000Z",
+            "author": {
+                "name": "飼酒の",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

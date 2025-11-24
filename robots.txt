@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://didididadida.github.io/sitemap.xml

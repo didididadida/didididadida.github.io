@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>飼酒の小站</title>
+        <link>https://didididadida.github.io/</link>
+        <description>please believe yourself</description>
+        <lastBuildDate>Mon, 24 Nov 2025 11:52:53 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>飼酒の小站</title>
+            <url>https://s1.1128888.xyz/2024/08/08/66b3fd56df197.jpg</url>
+            <link>https://didididadida.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © 飼酒の</copyright>
+        <atom:link href="https://didididadida.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[🌏]]></title>
+            <link>https://didididadida.github.io/posts/know_about_World</link>
+            <guid>https://didididadida.github.io/posts/know_about_World</guid>
+            <pubDate>Sun, 12 Nov 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p><s>以下是一些自己的对于世界的一些白日幻想，现在看来是十分幼稚的描述，不过就放到这里了。</s></p>
+</blockquote>
+<h1>1.0心智世界</h1>
+<p>所谓人类的思考：就是人类神经的某个微尘在某一瞬间受到了触动，转而引发了其他神经的触</p>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/know_about_World" target="_blank">https://didididadida.github.io/posts/know_about_World</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (飼酒の)</author>
+        </item>
+        <item>
+            <title><![CDATA[关于python的学习]]></title>
+            <link>https://didididadida.github.io/posts/learn_about_python</link>
+            <guid>https://didididadida.github.io/posts/learn_about_python</guid>
+            <pubDate>Sat, 14 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h4>参考的资料</h4>
+<p><a href="https://www.runoob.com/python/python-tutorial.html">python</a></p>
+<h1>基础知识</h1>
+<p>以下是python的一些基础语法：</p>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/learn_about_python" target="_blank">https://didididadida.github.io/posts/learn_about_python</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (飼酒の)</author>
+        </item>
+        <item>
+            <title><![CDATA[复刻云游君的Valaxy]]></title>
+            <link>https://didididadida.github.io/posts/about_build_site</link>
+            <guid>https://didididadida.github.io/posts/about_build_site</guid>
+            <pubDate>Fri, 13 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p><strong>参考的资料：</strong></p>
+<ul>
+<li><a href="https://www.yunyoujun.cn/posts/how-to-build-your-site">从零开始创建一个网站</a></li>
+<li>[云主题](<a href="https://y">https://y</a></li>
+</ul>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/about_build_site" target="_blank">https://didididadida.github.io/posts/about_build_site</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (飼酒の)</author>
+        </item>
+        <item>
+            <title><![CDATA[如是说 & 碎碎念]]></title>
+            <link>https://didididadida.github.io/posts/just_as_this_time</link>
+            <guid>https://didididadida.github.io/posts/just_as_this_time</guid>
+            <pubDate>Thu, 12 Oct 2023 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>2023年11月29日</h3>
+<p>总有一些事物，迫使着我们不断做出改变，而且，我们别无选择，只有迎面而上。</p>
+<p>曾经在很长一段时间在这个上面做自己的学习工作：[语雀笔记](<a href="https://www.yu">https://www.yu</a></p>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/just_as_this_time" target="_blank">https://didididadida.github.io/posts/just_as_this_time</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (飼酒の)</author>
+        </item>
+    </channel>
+</rss>

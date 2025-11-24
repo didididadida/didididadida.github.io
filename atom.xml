@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://didididadida.github.io/</id>
+    <title>飼酒の小站</title>
+    <updated>2025-11-24T11:52:53.684Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>飼酒の</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://didididadida.github.io/"/>
+    <link rel="self" href="https://didididadida.github.io/atom.xml"/>
+    <subtitle>please believe yourself</subtitle>
+    <logo>https://s1.1128888.xyz/2024/08/08/66b3fd56df197.jpg</logo>
+    <icon>https://didididadida.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © 飼酒の</rights>
+    <entry>
+        <title type="html"><![CDATA[🌏]]></title>
+        <id>https://didididadida.github.io/posts/know_about_World</id>
+        <link href="https://didididadida.github.io/posts/know_about_World"/>
+        <updated>2023-11-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p><s>以下是一些自己的对于世界的一些白日幻想，现在看来是十分幼稚的描述，不过就放到这里了。</s></p>
+</blockquote>
+<h1>1.0心智世界</h1>
+<p>所谓人类的思考：就是人类神经的某个微尘在某一瞬间受到了触动，转而引发了其他神经的触</p>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/know_about_World" target="_blank">https://didididadida.github.io/posts/know_about_World</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>飼酒の</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-11-12T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于python的学习]]></title>
+        <id>https://didididadida.github.io/posts/learn_about_python</id>
+        <link href="https://didididadida.github.io/posts/learn_about_python"/>
+        <updated>2023-10-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>参考的资料</h4>
+<p><a href="https://www.runoob.com/python/python-tutorial.html">python</a></p>
+<h1>基础知识</h1>
+<p>以下是python的一些基础语法：</p>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/learn_about_python" target="_blank">https://didididadida.github.io/posts/learn_about_python</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>飼酒の</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-10-14T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[复刻云游君的Valaxy]]></title>
+        <id>https://didididadida.github.io/posts/about_build_site</id>
+        <link href="https://didididadida.github.io/posts/about_build_site"/>
+        <updated>2023-10-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>参考的资料：</strong></p>
+<ul>
+<li><a href="https://www.yunyoujun.cn/posts/how-to-build-your-site">从零开始创建一个网站</a></li>
+<li>[云主题](<a href="https://y">https://y</a></li>
+</ul>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/about_build_site" target="_blank">https://didididadida.github.io/posts/about_build_site</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>飼酒の</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-10-13T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[如是说 & 碎碎念]]></title>
+        <id>https://didididadida.github.io/posts/just_as_this_time</id>
+        <link href="https://didididadida.github.io/posts/just_as_this_time"/>
+        <updated>2023-10-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h3>2023年11月29日</h3>
+<p>总有一些事物，迫使着我们不断做出改变，而且，我们别无选择，只有迎面而上。</p>
+<p>曾经在很长一段时间在这个上面做自己的学习工作：[语雀笔记](<a href="https://www.yu">https://www.yu</a></p>
+<br/><p>访问 <a href="https://didididadida.github.io/posts/just_as_this_time" target="_blank">https://didididadida.github.io/posts/just_as_this_time</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>飼酒の</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2023-10-12T00:00:00.000Z</published>
+    </entry>
+</feed>
