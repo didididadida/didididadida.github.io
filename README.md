@@ -13,3 +13,13 @@ create-valaxy: [valaxy.site](https://valaxy.site)
    npm i # 安装依赖
    npm run dev # 启动开发服务器
    ```
+
+## 如何将本地项目上传到github？
+```
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/your_username/your_repo_name.git
+git push -u origin master
+
+```
